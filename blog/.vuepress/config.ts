@@ -5,7 +5,7 @@ const userBase = 'blog';
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "主题演示", // TODO: 主题演示
+  title: "理塘旅游大使官方博客", // TODO: 主题演示
   description: "vuepress-theme-hope 的演示",
 
   base: `/${userBase}/`,

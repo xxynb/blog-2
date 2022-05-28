@@ -4,9 +4,9 @@ layout: Blog
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: 你博客的名称 #TODO: 你博客的名称
+heroText: 太美丽了理塘 #TODO: 你博客的名称
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语 #TODO: 你可以在这里放置你的口号与标语
+tagline: 做题家们的怨气为何要往丁真身上撒 #TODO: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
     name: 短视频H5 #TODO: 你自己的项目
@@ -38,5 +38,5 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: 自定义你的页脚文字 #TODO: 自定义你自己的页脚文字
+footer: 四非天花板 #TODO: 自定义你自己的页脚文字
 ---

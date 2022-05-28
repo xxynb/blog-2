@@ -31,7 +31,7 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "一个前端开发者", //TODO: 一个前端开发者
+    description: "一个康巴汉子", //TODO: 一个前端开发者
     intro: "/intro.html",
     medias: {
       GitHub: "https://github.com" // TODO: 有人self github
